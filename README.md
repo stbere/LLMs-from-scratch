@@ -41,16 +41,22 @@ Alternatively, you can view this and other files on GitHub at [https://github.co
 | Ch 6: Finetuning for Text Classification       | Q2 2024                                                                                                                         | ...                           |
 | Ch 7: Finetuning with Human Feedback           | Q2 2024                                                                                                                         | ...                           |
 | Ch 8: Using Large Language Models in Practice  | Q2/3 2024                                                                                                                       | ...                           |
-| Appendix A: Introduction to PyTorch*           | - [code-part1.ipynb](appendix-A/03_main-chapter-code/code-part1.ipynb)<br/>- [code-part2.ipynb](appendix-A/03_main-chapter-code/code-part2.ipynb)<br/>- [DDP-script.py](appendix-A/03_main-chapter-code/DDP-script.py)<br/>- [exercise-solutions.ipynb](appendix-A/03_main-chapter-code/exercise-solutions.ipynb) | [./appendix-A](./appendix-A) |
+| Appendix A: Introduction to PyTorch            | - [code-part1.ipynb](appendix-A/03_main-chapter-code/code-part1.ipynb)<br/>- [code-part2.ipynb](appendix-A/03_main-chapter-code/code-part2.ipynb)<br/>- [DDP-script.py](appendix-A/03_main-chapter-code/DDP-script.py)<br/>- [exercise-solutions.ipynb](appendix-A/03_main-chapter-code/exercise-solutions.ipynb) | [./appendix-A](./appendix-A) |
+| Appendix B: References and Further Reading     | No code                                                                                                                         |                               |
+| Appendix C: Exercises                          | No code                                                                                                                         |                               |
 
-(* Please see [this](appendix-A/01_optional-python-setup-preferences) and [this](appendix-A/02_installing-python-libraries) folder if you need more guidance on installing Python and Python packages.)
+
+<br>
+
+> [!TIP]
+> Please see [this](appendix-A/01_optional-python-setup-preferences) and [this](appendix-A/02_installing-python-libraries) folder if you need more guidance on installing Python and Python packages.
 
 
 
 <br>
 <br>
+
+Shown below is a mental model summarizing the contents covered in this book.
 
 <img src="images/mental-model.jpg" width="600px">
-
-(A mental model summarizing the contents covered in this book.)
 
